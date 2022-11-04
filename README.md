@@ -1,7 +1,7 @@
 ## Getting Started
 
 ### Pre-requisites and Local Development 
-The prerequites tool for local development are:
+The prerequites tool for local development is:
 
  - Python
 

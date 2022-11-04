@@ -2,7 +2,7 @@ import csv
 import json
 import hashlib
 
-# Storing the path to the input and output files
+# Storing the path to the input and output files in a variable
 csvFilePath = "HNGi9 CSV FILE - Sheet1.csv"
 jsonFilePath = "Sheet1.json"
 outputCsvFilepath = "Sheet1.output.csv"
